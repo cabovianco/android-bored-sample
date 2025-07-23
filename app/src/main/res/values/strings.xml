@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bored</string>
+    <string name="generate_activity_button">Generate</string>
+</resources>

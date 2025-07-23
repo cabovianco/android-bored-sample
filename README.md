@@ -1,6 +1,6 @@
 # Bored Activities App
 
-An Android app that suggests fun activities to do when you're bored, built with Kotlin and Jetpack Compose.
+A simple Android app that suggests activities to do when you're bored, built with Kotlin and Jetpack Compose.
 
 ## Description
 
